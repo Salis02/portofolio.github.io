@@ -508,3 +508,6 @@ span{
         margin-top: 2rem;
     }
 }
+img{
+    border-radius: 10px;
+}
